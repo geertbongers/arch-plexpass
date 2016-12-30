@@ -42,7 +42,7 @@ source /root/aor.sh
 aur_helper="apacman"
 
 # define aur packages
-aur_packages="plex-media-server-plexpass"
+aur_packages="plex-media-server-plexpass-dvr"
 
 # call aur install script (arch user repo)
 source /root/aur.sh
